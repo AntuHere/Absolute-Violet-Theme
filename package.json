@@ -1,9 +1,9 @@
 {
     "name": "absolute-violet-theme",
     "displayName": "Absolute Violet Theme",
-    "description": "Official Absolute Violet Theme for VS Code bt MD Antu",
+    "description": "Official Absolute Violet Theme for VS Code by MD Antu",
     "version": "1.1.0",
-    "icon": "logo.png",
+    "icon": "images/logo.png",
     "publisher": "mdantu",
     "repository": {
         "type": "git",
@@ -26,7 +26,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "md_antu",
+                "label": "Absolute Violte Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/md_antu-color-theme.json"
             }

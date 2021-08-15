@@ -1,13 +1,21 @@
-
+<p align="center"><img width="800px" src="images/logo.png"></p>
 <p><br></p>
 
 ## Brought to you by
 </br>
 Official VS Code theme of Absoluet Violet!<br></p>
 
+## Theme Screenshots
+
+### Absolute Violet
+
+<p align="center"><img width="800px" src="images/review_1.png"></p>
+<p align="center"><img width="800px" src="images/review_2.png"></p>
+<p align="c
+
 ## Getting started
 
-<!-- You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme). -->
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mdantu.absolute-violet-theme).
 
 ### Prerequisites
 
