@@ -1,0 +1,21 @@
+{
+    "name": "absolute-violet",
+    "displayName": "absolute-violet",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "md_antu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/md_antu-color-theme.json"
+            }
+        ]
+    }
+}
