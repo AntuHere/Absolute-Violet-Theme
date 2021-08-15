@@ -1,14 +1,27 @@
 {
-    "name": "absolute-violet",
-    "displayName": "absolute-violet",
-    "description": "",
+    "name": "absolute-violet-theme",
+    "displayName": "Absolute Violet Theme",
+    "description": "Official Absolute Violet Theme for VS Code bt MD Antu",
     "version": "0.0.1",
+    "publisher": "Md Antu",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AntuHere/absolute-violet"
+	},
     "engines": {
         "vscode": "^1.59.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"theme",
+		"dark theme",
+		"absolute violet theme",
+		"absolute violet",
+		"absoluteviolet",
+		"Md Antu"
+	],
     "contributes": {
         "themes": [
             {
