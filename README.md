@@ -11,7 +11,7 @@ Official VS Code theme of Absoluet Violet!<br></p>
 
 <p align="center"><img width="800px" src="images/review_1.png"></p>
 <p align="center"><img width="800px" src="images/review_2.png"></p>
-<p align="c
+
 
 ## Getting started
 
