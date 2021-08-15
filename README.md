@@ -45,7 +45,7 @@ Launch _Quick Open_:
 - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
 - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
-Type `theme`, choose `Preferences: Color Theme`, and select Learn with Sumit Theme from the list. After activation, the theme will be activated.
+Type `theme`, choose `Preferences: Color Theme`, and select Absolute Violet Theme from the list. After activation, the theme will be activated.
 
 ## Recommended settings for a better experience
 
