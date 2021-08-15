@@ -2,8 +2,9 @@
     "name": "absolute-violet-theme",
     "displayName": "Absolute Violet Theme",
     "description": "Official Absolute Violet Theme for VS Code bt MD Antu",
-    "version": "0.0.1",
-    "publisher": "Md Antu",
+    "version": "1.0.0",
+    "icon": "logo.png",
+    "publisher": "mdantu",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/AntuHere/absolute-violet"
