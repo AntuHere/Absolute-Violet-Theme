@@ -1,9 +1,24 @@
-<p align="center"><img width="80px" src="images/logo.png"></p>
-<p><br></p>
 
 ## Brought to you by
-</br>
-Official VS Code theme of Absoluet Violet!<br></p>
+<p align="center"><img width="500px" src="images/logo.png"></p>
+
+<p><a title="Try Absolute Violet" href="https://www.github.com/AntuHere/absolute-violet">Absolute Violet</a>
+Official VS Code theme of Absoluet Violet!</p>
+
+---
+
+## Table of contents
+
+If you are a big fan of **Absolute Violet** and you use Visual Studio Code as your code editor, this is the theme for you.
+
+- [Brought to you by](#brought-to-you-by)
+- [Table of contents](#table-of-contents)
+- [Theme Screenshots](#theme-screenshots)
+- [Getting started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Activate theme](#activate-theme)
+- [Recommended settings for a better experience](#recommended-settings-for-a-better-experience)
 
 ## Theme Screenshots
 
@@ -19,7 +34,7 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 ### Prerequisites
 
-This theme is compatible for VS Code version 1.16.0+
+This theme is compatible for VS Code version 2.2.0+
 
 ### Installation
 
@@ -32,7 +47,7 @@ Launch _Quick Open_:
 Paste the following command and press `Enter`:
 
 ```shell
-ext install learn-with-sumit-theme
+ext install mdantu.absolute-violet-theme
 ```
 
 And pick the one by **Md Antu** as author.
