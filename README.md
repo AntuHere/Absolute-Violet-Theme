@@ -101,6 +101,19 @@ In case you don't see the terminal does not look as expected, you can make the b
   }
 ```
 
+## Contributors 
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.facebook.com/52HertzWhale.Toha"><img src="https://avatars2.githubusercontent.com/u/FC-web?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hasan Ibn Amir Toha (FC)</b></sub></a><br />🤔💻</td>
+
+    </table>
+  </tr>
 ---
 
 <p align="center">Copyright &copy; 2021 MD Antu</p>
