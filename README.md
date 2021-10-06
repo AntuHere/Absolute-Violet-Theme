@@ -110,10 +110,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.facebook.com/52HertzWhale.Toha"><img src="https://avatars2.githubusercontent.com/u/FC-web?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hasan Ibn Amir Toha (FC)</b></sub></a><br />🤔💻</td>
-
-    </table>
+    <td align="center"><a href="https://www.facebook.com/52HertzWhale.Toha"><img src="https://avatars2.githubusercontent.com/u/64352182?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hasan Ibn Amir Toha (FC)</b></sub></a><br />🤔💻</td>
   </tr>
+    </table>
+
 ---
 
 <p align="center">Copyright &copy; 2021 MD Antu</p>
